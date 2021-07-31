@@ -130,3 +130,6 @@ dmypy.json
 
 # mnist pickle
 mnist.pickle
+
+# pycharm
+.idea/

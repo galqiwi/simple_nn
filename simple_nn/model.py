@@ -34,6 +34,6 @@ class Model:
         optimizer.optimize(hidden_values, hidden_values_grad)
         
         if return_data_gradient:
-            return (error, output_grad_v)
+            return error, output_grad_v
         else:
             return error
