@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import scipy.stats as sps
 import seaborn as sns
-import pandas as pd
 import pickle
 # sns.set(font_scale=1.6)
 
